@@ -36,3 +36,80 @@
 11/11/2025 20:53:29: Purchase confirmed for Oil.
 11/11/2025 20:53:29: Clicked Buy more button to continue purchases.
 11/11/2025 20:53:29: Summary: Total=1, Passed=1, Failed=0
+11/11/2025 22:03:32: Opened home page.
+11/11/2025 22:03:33: Opened About page.
+11/11/2025 22:03:34: Transitioned to detailed section.
+11/11/2025 22:03:34: Summary: Total=1, Passed=1, Failed=0
+11/11/2025 22:03:37: Navigated to Buy Energy page.
+11/11/2025 22:03:37: Entered 20 units for Gas.
+11/11/2025 22:03:38: Clicked Buy button for Gas.
+11/11/2025 22:03:38: Purchase confirmed for Gas.
+11/11/2025 22:03:38: Clicked Buy more button to continue purchases.
+11/11/2025 22:03:38: Purchased 20 units of Gas, now testing reset.
+11/11/2025 22:03:38: Clicked Reset button.
+11/11/2025 22:03:38: Failure: unknown error: unhandled inspector error: {"code":-32000,"message":"Node with given id does not belong to the document"}
+  (Session info: chrome=142.0.7444.162)
+11/11/2025 22:03:38: Summary: Total=1, Passed=0, Failed=1
+11/11/2025 22:03:40: Opened home page.
+11/11/2025 22:03:40: Page title verified: ENSEK Energy Corp. - Candidate Test
+11/11/2025 22:03:40: Verified <p class='lead'> text.
+11/11/2025 22:03:40: Verified <h2> text: Buy some energy
+11/11/2025 22:03:40: Verified <h2> text: Sell some energy
+11/11/2025 22:03:40: Verified <h2> text: About us
+11/11/2025 22:03:40: Verified primary 'Find out more »' button.
+11/11/2025 22:03:40: Verified button 'Buy energy »' with href '/Energy/Buy'
+11/11/2025 22:03:40: Verified button 'Sell energy »' with href '/Energy/Sell'
+11/11/2025 22:03:40: Verified button 'Learn more »' with href '/Home/About'
+11/11/2025 22:03:40: Summary: Total=1, Passed=1, Failed=0
+11/11/2025 22:03:42: Navigated to Buy Energy page: https://ensekautomationcandidatetest.azurewebsites.net//Energy/Buy
+11/11/2025 22:03:42: Entered 50 units for Gas.
+11/11/2025 22:03:42: Clicked Buy button for Gas.
+11/11/2025 22:03:43: Purchase confirmed for Gas.
+11/11/2025 22:03:43: Clicked Buy more button to continue purchases.
+11/11/2025 22:03:43: Entered 50 units for Electricity.
+11/11/2025 22:03:43: Clicked Buy button for Electricity.
+11/11/2025 22:03:43: Purchase confirmed for Electricity.
+11/11/2025 22:03:43: Clicked Buy more button to continue purchases.
+11/11/2025 22:03:43: Entered 50 units for Oil.
+11/11/2025 22:03:43: Clicked Buy button for Oil.
+11/11/2025 22:03:44: Purchase confirmed for Oil.
+11/11/2025 22:03:44: Clicked Buy more button to continue purchases.
+11/11/2025 22:03:44: Summary: Total=1, Passed=1, Failed=0
+11/11/2025 22:04:20: Opened home page.
+11/11/2025 22:04:21: Opened About page.
+11/11/2025 22:04:22: Transitioned to detailed section.
+11/11/2025 22:04:22: Summary: Total=1, Passed=1, Failed=0
+11/11/2025 22:04:24: Navigated to Buy Energy page.
+11/11/2025 22:04:24: Entered 20 units for Gas.
+11/11/2025 22:04:25: Clicked Buy button for Gas.
+11/11/2025 22:04:25: Purchase confirmed for Gas.
+11/11/2025 22:04:25: Clicked Buy more button to continue purchases.
+11/11/2025 22:04:25: Purchased 20 units of Gas, now testing reset.
+11/11/2025 22:04:25: Clicked Reset button.
+11/11/2025 22:04:25: All energy input fields correctly reset to '0'.
+11/11/2025 22:04:25: Summary: Total=1, Passed=1, Failed=0
+11/11/2025 22:04:27: Opened home page.
+11/11/2025 22:04:27: Page title verified: ENSEK Energy Corp. - Candidate Test
+11/11/2025 22:04:27: Verified <p class='lead'> text.
+11/11/2025 22:04:27: Verified <h2> text: Buy some energy
+11/11/2025 22:04:27: Verified <h2> text: Sell some energy
+11/11/2025 22:04:27: Verified <h2> text: About us
+11/11/2025 22:04:27: Verified primary 'Find out more »' button.
+11/11/2025 22:04:27: Verified button 'Buy energy »' with href '/Energy/Buy'
+11/11/2025 22:04:27: Verified button 'Sell energy »' with href '/Energy/Sell'
+11/11/2025 22:04:27: Verified button 'Learn more »' with href '/Home/About'
+11/11/2025 22:04:27: Summary: Total=1, Passed=1, Failed=0
+11/11/2025 22:04:29: Navigated to Buy Energy page: https://ensekautomationcandidatetest.azurewebsites.net//Energy/Buy
+11/11/2025 22:04:29: Entered 50 units for Gas.
+11/11/2025 22:04:29: Clicked Buy button for Gas.
+11/11/2025 22:04:30: Purchase confirmed for Gas.
+11/11/2025 22:04:30: Clicked Buy more button to continue purchases.
+11/11/2025 22:04:31: Entered 50 units for Electricity.
+11/11/2025 22:04:31: Clicked Buy button for Electricity.
+11/11/2025 22:04:31: Purchase confirmed for Electricity.
+11/11/2025 22:04:31: Clicked Buy more button to continue purchases.
+11/11/2025 22:04:31: Entered 50 units for Oil.
+11/11/2025 22:04:31: Clicked Buy button for Oil.
+11/11/2025 22:04:31: Purchase confirmed for Oil.
+11/11/2025 22:04:32: Clicked Buy more button to continue purchases.
+11/11/2025 22:04:32: Summary: Total=1, Passed=1, Failed=0
