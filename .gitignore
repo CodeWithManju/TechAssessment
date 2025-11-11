@@ -1,2 +1,8 @@
 .DS_Store
 .DS_Store
+.DS_Store
+__MACOSX/
+*.tmp
+*.log
+*.swp
+.Trash*
