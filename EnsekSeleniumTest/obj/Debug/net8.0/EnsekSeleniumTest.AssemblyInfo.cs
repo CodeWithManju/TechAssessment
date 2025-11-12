@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EnsekSeleniumTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ca62eeaa7bc79fadba4d84ea95523ddac4eb67e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba0b1e1aeea2adf2f2e5a110d8839d40f5bbb3be")]
 [assembly: System.Reflection.AssemblyProductAttribute("EnsekSeleniumTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EnsekSeleniumTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

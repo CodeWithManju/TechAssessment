@@ -113,3 +113,233 @@
 11/11/2025 22:04:31: Purchase confirmed for Oil.
 11/11/2025 22:04:32: Clicked Buy more button to continue purchases.
 11/11/2025 22:04:32: Summary: Total=1, Passed=1, Failed=0
+12/11/2025 10:07:55: Opened home page.
+12/11/2025 10:07:55: Opened About page.
+12/11/2025 10:07:57: Transitioned to detailed section.
+12/11/2025 10:07:57: Summary: Total=1, Passed=1, Failed=0
+12/11/2025 10:07:59: Navigated to Buy Energy page.
+12/11/2025 10:08:00: Entered 20 units for Gas.
+12/11/2025 10:08:00: Clicked Buy button for Gas.
+12/11/2025 10:08:00: Purchase confirmed for Gas.
+12/11/2025 10:08:00: Clicked Buy more button to continue purchases.
+12/11/2025 10:08:00: Purchased 20 units of Gas, now testing reset.
+12/11/2025 10:08:00: Clicked Reset button.
+12/11/2025 10:08:00: Failure: stale element reference: stale element not found
+  (Session info: chrome=142.0.7444.162); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+12/11/2025 10:08:00: Summary: Total=1, Passed=0, Failed=1
+12/11/2025 10:08:02: Opened home page.
+12/11/2025 10:08:02: Page title verified: ENSEK Energy Corp. - Candidate Test
+12/11/2025 10:08:02: Verified <p class='lead'> text.
+12/11/2025 10:08:02: Verified <h2> text: Buy some energy
+12/11/2025 10:08:02: Verified <h2> text: Sell some energy
+12/11/2025 10:08:02: Verified <h2> text: About us
+12/11/2025 10:08:02: Verified primary 'Find out more »' button.
+12/11/2025 10:08:03: Verified button 'Buy energy »' with href '/Energy/Buy'
+12/11/2025 10:08:03: Verified button 'Sell energy »' with href '/Energy/Sell'
+12/11/2025 10:08:03: Verified button 'Learn more »' with href '/Home/About'
+12/11/2025 10:08:03: Summary: Total=1, Passed=1, Failed=0
+12/11/2025 10:08:05: Navigated to Buy Energy page: https://ensekautomationcandidatetest.azurewebsites.net//Energy/Buy
+12/11/2025 10:08:05: Entered 50 units for Gas.
+12/11/2025 10:08:05: Clicked Buy button for Gas.
+12/11/2025 10:08:05: Purchase confirmed for Gas.
+12/11/2025 10:08:05: Clicked Buy more button to continue purchases.
+12/11/2025 10:08:05: Entered 50 units for Electricity.
+12/11/2025 10:08:06: Clicked Buy button for Electricity.
+12/11/2025 10:08:06: Purchase confirmed for Electricity.
+12/11/2025 10:08:06: Clicked Buy more button to continue purchases.
+12/11/2025 10:08:06: Entered 50 units for Oil.
+12/11/2025 10:08:06: Clicked Buy button for Oil.
+12/11/2025 10:08:06: Purchase confirmed for Oil.
+12/11/2025 10:08:06: Clicked Buy more button to continue purchases.
+12/11/2025 10:08:06: Summary: Total=1, Passed=1, Failed=0
+12/11/2025 10:43:47: Opened home page.
+12/11/2025 10:43:47: Opened About page.
+12/11/2025 10:43:49: Transitioned to detailed section.
+12/11/2025 10:43:49: Summary: Total=1, Passed=1, Failed=0
+12/11/2025 10:43:52: Navigated to Buy Energy page.
+12/11/2025 10:43:52: Entered 20 units for Gas.
+12/11/2025 10:43:52: Clicked Buy button for Gas.
+12/11/2025 10:43:52: Purchase confirmed for Gas.
+12/11/2025 10:43:52: Clicked Buy more button to continue purchases.
+12/11/2025 10:43:52: Purchased 20 units of Gas, now testing reset.
+12/11/2025 10:43:52: Clicked Reset button.
+12/11/2025 10:43:53: Failure: stale element reference: stale element not found
+  (Session info: chrome=142.0.7444.162); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+12/11/2025 10:43:53: Summary: Total=1, Passed=0, Failed=1
+12/11/2025 10:43:55: Opened home page.
+12/11/2025 10:43:55: Page title verified: ENSEK Energy Corp. - Candidate Test
+12/11/2025 10:43:55: Verified <p class='lead'> text.
+12/11/2025 10:43:55: Verified <h2> text: Buy some energy
+12/11/2025 10:43:55: Verified <h2> text: Sell some energy
+12/11/2025 10:43:55: Verified <h2> text: About us
+12/11/2025 10:43:55: Verified primary 'Find out more »' button.
+12/11/2025 10:43:55: Verified button 'Buy energy »' with href '/Energy/Buy'
+12/11/2025 10:43:55: Verified button 'Sell energy »' with href '/Energy/Sell'
+12/11/2025 10:43:55: Verified button 'Learn more »' with href '/Home/About'
+12/11/2025 10:43:55: Summary: Total=1, Passed=1, Failed=0
+12/11/2025 10:43:57: Navigated to Buy Energy page: https://ensekautomationcandidatetest.azurewebsites.net//Energy/Buy
+12/11/2025 10:43:57: Entered 50 units for Gas.
+12/11/2025 10:43:57: Clicked Buy button for Gas.
+12/11/2025 10:43:57: Purchase confirmed for Gas.
+12/11/2025 10:43:57: Clicked Buy more button to continue purchases.
+12/11/2025 10:43:57: Entered 50 units for Electricity.
+12/11/2025 10:43:58: Clicked Buy button for Electricity.
+12/11/2025 10:43:58: Purchase confirmed for Electricity.
+12/11/2025 10:43:58: Clicked Buy more button to continue purchases.
+12/11/2025 10:43:58: Entered 50 units for Oil.
+12/11/2025 10:43:58: Clicked Buy button for Oil.
+12/11/2025 10:43:59: Purchase confirmed for Oil.
+12/11/2025 10:43:59: Clicked Buy more button to continue purchases.
+12/11/2025 10:43:59: Summary: Total=1, Passed=1, Failed=0
+12/11/2025 10:52:12: Opened home page.
+12/11/2025 10:52:13: Opened About page.
+12/11/2025 10:52:14: Transitioned to detailed section.
+12/11/2025 10:52:14: Summary: Total=1, Passed=1, Failed=0
+12/11/2025 10:52:25: Failure: Timed out after 10 seconds
+12/11/2025 10:52:25: Summary: Total=1, Passed=0, Failed=1
+12/11/2025 10:52:27: Opened home page.
+12/11/2025 10:52:27: Page title verified: ENSEK Energy Corp. - Candidate Test
+12/11/2025 10:52:27: Verified <p class='lead'> text.
+12/11/2025 10:52:27: Verified <h2> text: Buy some energy
+12/11/2025 10:52:27: Verified <h2> text: Sell some energy
+12/11/2025 10:52:27: Verified <h2> text: About us
+12/11/2025 10:52:27: Verified primary 'Find out more »' button.
+12/11/2025 10:52:27: Verified button 'Buy energy »' with href '/Energy/Buy'
+12/11/2025 10:52:27: Verified button 'Sell energy »' with href '/Energy/Sell'
+12/11/2025 10:52:27: Verified button 'Learn more »' with href '/Home/About'
+12/11/2025 10:52:27: Summary: Total=1, Passed=1, Failed=0
+12/11/2025 10:52:39: Failure: Timed out after 10 seconds
+12/11/2025 10:52:39: Summary: Total=1, Passed=0, Failed=1
+12/11/2025 10:54:27: Opened home page.
+12/11/2025 10:54:28: Opened About page.
+12/11/2025 10:54:29: Transitioned to detailed section.
+12/11/2025 10:54:29: Summary: Total=1, Passed=1, Failed=0
+12/11/2025 10:54:52: Failure: Timed out after 20 seconds
+12/11/2025 10:54:52: Summary: Total=1, Passed=0, Failed=1
+12/11/2025 10:54:54: Opened home page.
+12/11/2025 10:54:54: Page title verified: ENSEK Energy Corp. - Candidate Test
+12/11/2025 10:54:54: Verified <p class='lead'> text.
+12/11/2025 10:54:54: Verified <h2> text: Buy some energy
+12/11/2025 10:54:54: Verified <h2> text: Sell some energy
+12/11/2025 10:54:54: Verified <h2> text: About us
+12/11/2025 10:54:54: Verified primary 'Find out more »' button.
+12/11/2025 10:54:54: Verified button 'Buy energy »' with href '/Energy/Buy'
+12/11/2025 10:54:54: Verified button 'Sell energy »' with href '/Energy/Sell'
+12/11/2025 10:54:54: Verified button 'Learn more »' with href '/Home/About'
+12/11/2025 10:54:54: Summary: Total=1, Passed=1, Failed=0
+12/11/2025 10:55:16: Failure: Timed out after 20 seconds
+12/11/2025 10:55:16: Summary: Total=1, Passed=0, Failed=1
+12/11/2025 10:55:40: Opened home page.
+12/11/2025 10:55:40: Opened About page.
+12/11/2025 10:55:41: Transitioned to detailed section.
+12/11/2025 10:55:41: Summary: Total=1, Passed=1, Failed=0
+12/11/2025 10:56:04: Failure: Timed out after 20 seconds
+12/11/2025 10:56:04: Summary: Total=1, Passed=0, Failed=1
+12/11/2025 10:56:06: Opened home page.
+12/11/2025 10:56:06: Page title verified: ENSEK Energy Corp. - Candidate Test
+12/11/2025 10:56:06: Verified <p class='lead'> text.
+12/11/2025 10:56:06: Verified <h2> text: Buy some energy
+12/11/2025 10:56:06: Verified <h2> text: Sell some energy
+12/11/2025 10:56:06: Verified <h2> text: About us
+12/11/2025 10:56:06: Verified primary 'Find out more »' button.
+12/11/2025 10:56:06: Verified button 'Buy energy »' with href '/Energy/Buy'
+12/11/2025 10:56:06: Verified button 'Sell energy »' with href '/Energy/Sell'
+12/11/2025 10:56:06: Verified button 'Learn more »' with href '/Home/About'
+12/11/2025 10:56:06: Summary: Total=1, Passed=1, Failed=0
+12/11/2025 10:56:28: Failure: Timed out after 20 seconds
+12/11/2025 10:56:28: Summary: Total=1, Passed=0, Failed=1
+12/11/2025 11:09:49: Opened home page.
+12/11/2025 11:09:49: Opened About page.
+12/11/2025 11:09:51: Transitioned to detailed section.
+12/11/2025 11:09:51: Summary: Total=1, Passed=1, Failed=0
+12/11/2025 11:10:14: Failure: Timed out after 20 seconds
+12/11/2025 11:10:14: Summary: Total=1, Passed=0, Failed=1
+12/11/2025 11:10:16: Opened home page.
+12/11/2025 11:10:16: Page title verified: ENSEK Energy Corp. - Candidate Test
+12/11/2025 11:10:16: Verified <p class='lead'> text.
+12/11/2025 11:10:16: Verified <h2> text: Buy some energy
+12/11/2025 11:10:16: Verified <h2> text: Sell some energy
+12/11/2025 11:10:16: Verified <h2> text: About us
+12/11/2025 11:10:16: Verified primary 'Find out more »' button.
+12/11/2025 11:10:16: Verified button 'Buy energy »' with href '/Energy/Buy'
+12/11/2025 11:10:16: Verified button 'Sell energy »' with href '/Energy/Sell'
+12/11/2025 11:10:16: Verified button 'Learn more »' with href '/Home/About'
+12/11/2025 11:10:16: Summary: Total=1, Passed=1, Failed=0
+12/11/2025 11:10:38: Failure: Timed out after 20 seconds
+12/11/2025 11:10:38: Summary: Total=1, Passed=0, Failed=1
+12/11/2025 11:12:12: Opened home page.
+12/11/2025 11:12:12: Opened About page.
+12/11/2025 11:12:14: Transitioned to detailed section.
+12/11/2025 11:12:14: Summary: Total=1, Passed=1, Failed=0
+12/11/2025 11:12:16: Navigated to Buy Energy page.
+12/11/2025 11:12:16: Entered 20 units for Gas.
+12/11/2025 11:12:16: Clicked Buy button for Gas.
+12/11/2025 11:12:16: Purchase confirmed for Gas.
+12/11/2025 11:12:16: Clicked Buy more button to continue purchases.
+12/11/2025 11:12:16: Purchased 20 units of Gas, now testing reset.
+12/11/2025 11:12:17: Clicked Reset button.
+12/11/2025 11:12:17: All energy input fields correctly reset to '0'.
+12/11/2025 11:12:17: Summary: Total=1, Passed=1, Failed=0
+12/11/2025 11:12:19: Opened home page.
+12/11/2025 11:12:19: Page title verified: ENSEK Energy Corp. - Candidate Test
+12/11/2025 11:12:19: Verified <p class='lead'> text.
+12/11/2025 11:12:19: Verified <h2> text: Buy some energy
+12/11/2025 11:12:19: Verified <h2> text: Sell some energy
+12/11/2025 11:12:19: Verified <h2> text: About us
+12/11/2025 11:12:19: Verified primary 'Find out more »' button.
+12/11/2025 11:12:19: Verified button 'Buy energy »' with href '/Energy/Buy'
+12/11/2025 11:12:19: Verified button 'Sell energy »' with href '/Energy/Sell'
+12/11/2025 11:12:19: Verified button 'Learn more »' with href '/Home/About'
+12/11/2025 11:12:19: Summary: Total=1, Passed=1, Failed=0
+12/11/2025 11:12:21: Navigated to Buy Energy page: https://ensekautomationcandidatetest.azurewebsites.net//Energy/Buy
+12/11/2025 11:12:21: Entered 50 units for Gas.
+12/11/2025 11:12:21: Clicked Buy button for Gas.
+12/11/2025 11:12:21: Purchase confirmed for Gas.
+12/11/2025 11:12:22: Clicked Buy more button to continue purchases.
+12/11/2025 11:12:22: Entered 50 units for Electricity.
+12/11/2025 11:12:22: Clicked Buy button for Electricity.
+12/11/2025 11:12:22: Purchase confirmed for Electricity.
+12/11/2025 11:12:23: Clicked Buy more button to continue purchases.
+12/11/2025 11:12:23: Entered 50 units for Oil.
+12/11/2025 11:12:23: Clicked Buy button for Oil.
+12/11/2025 11:12:23: Purchase confirmed for Oil.
+12/11/2025 11:12:23: Clicked Buy more button to continue purchases.
+12/11/2025 11:12:23: Summary: Total=1, Passed=1, Failed=0
+12/11/2025 11:37:03: Opened home page.
+12/11/2025 11:37:03: Opened About page.
+12/11/2025 11:37:04: Transitioned to detailed section.
+12/11/2025 11:37:04: Summary: Total=1, Passed=1, Failed=0
+12/11/2025 11:37:07: Navigated to Buy Energy page.
+12/11/2025 11:37:07: Entered 20 units for Gas.
+12/11/2025 11:37:07: Clicked Buy button for Gas.
+12/11/2025 11:37:07: Purchase confirmed for Gas.
+12/11/2025 11:37:08: Clicked Buy more button to continue purchases.
+12/11/2025 11:37:08: Purchased 20 units of Gas, now testing reset.
+12/11/2025 11:37:08: Clicked Reset button.
+12/11/2025 11:37:08: All energy input fields correctly reset to '0'.
+12/11/2025 11:37:08: Summary: Total=1, Passed=1, Failed=0
+12/11/2025 11:37:10: Opened home page.
+12/11/2025 11:37:10: Page title verified: ENSEK Energy Corp. - Candidate Test
+12/11/2025 11:37:10: Verified <p class='lead'> text.
+12/11/2025 11:37:10: Verified <h2> text: Buy some energy
+12/11/2025 11:37:10: Verified <h2> text: Sell some energy
+12/11/2025 11:37:10: Verified <h2> text: About us
+12/11/2025 11:37:10: Verified primary 'Find out more »' button.
+12/11/2025 11:37:10: Verified button 'Buy energy »' with href '/Energy/Buy'
+12/11/2025 11:37:10: Verified button 'Sell energy »' with href '/Energy/Sell'
+12/11/2025 11:37:10: Verified button 'Learn more »' with href '/Home/About'
+12/11/2025 11:37:10: Summary: Total=1, Passed=1, Failed=0
+12/11/2025 11:37:12: Navigated to Buy Energy page: https://ensekautomationcandidatetest.azurewebsites.net//Energy/Buy
+12/11/2025 11:37:12: Entered 50 units for Gas.
+12/11/2025 11:37:12: Clicked Buy button for Gas.
+12/11/2025 11:37:12: Purchase confirmed for Gas.
+12/11/2025 11:37:13: Clicked Buy more button to continue purchases.
+12/11/2025 11:37:13: Entered 50 units for Electricity.
+12/11/2025 11:37:13: Clicked Buy button for Electricity.
+12/11/2025 11:37:13: Purchase confirmed for Electricity.
+12/11/2025 11:37:13: Clicked Buy more button to continue purchases.
+12/11/2025 11:37:13: Entered 50 units for Oil.
+12/11/2025 11:37:14: Clicked Buy button for Oil.
+12/11/2025 11:37:14: Purchase confirmed for Oil.
+12/11/2025 11:37:14: Clicked Buy more button to continue purchases.
+12/11/2025 11:37:14: Summary: Total=1, Passed=1, Failed=0
